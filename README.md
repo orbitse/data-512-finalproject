@@ -1,6 +1,7 @@
 ## data-512-finalproject  
 The materials in this repository describe the final project in the Fall 2017 DATA 512 course in the Masters of Science in Data Science program at the University of Washington.  
-Prepared by Erin Orbits  
+Unless otherwise specified, any materials in this repository are released under the MIT License.  
+Project prepared by Erin Orbits  
 
 ---------
 
