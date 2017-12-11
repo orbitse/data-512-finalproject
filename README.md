@@ -6,6 +6,7 @@ Unless otherwise specified, any materials in this repository are released under 
 Project prepared by Erin Orbits  
 
 ---------
+  
 ## Project Purpose
 1. Conduct a statistical analysis of the Washington state Contributions to Candidates and Political Committees data to look for trends and anomalies.  
 2. Visualize the data and generate plots that help explain any insights from the data. 
@@ -22,7 +23,9 @@ As the tables below show, there were only two races where the candidate who rais
 ![Image](images/gov_ag_summary.jpeg)
 ![Image](images/sea_mayor_summary.jpeg)
   
-## About the Data  
+For more detail about the analysis, see the [A6-Final_Project](https://raw.githubusercontent.com/orbitse/data-512-finalproject/master/A6-Final-Project.ipynb).   
+
+## About the Data  
 The Contributions to Candidates and Political Committees dataset was downloaded from [data.wa.gov](https://data.wa.gov/Politics/Contributions-to-Candidates-and-Political-Committe/kv7h-kjyeOpens) and the dataset is in the Public Domain. The description of this dataset from the `data.wa.gov` site states:
   > This dataset contains cash and in-kind contributions made to Washington State Candidates and Political Committees for the last 10 years as reported to the PDC on forms C3, C4, Schedule C and their electronic filing equivalents. It does not include loans, pledges or any expenditures.
 For candidates, the number of years is determined by the year of the election, not necessarily the year the contribution was reported. For political committees, the number of years is determined by the calendar year of the reporting period.  
@@ -74,3 +77,5 @@ contributor_employer_city     object
 contributor_employer_state    object  
 url                           object  
 contributor_location          object  
+  
+For information about how to get and clean the data, see the notebook file: [Data-Cleaning](https://raw.githubusercontent.com/orbitse/data-512-finalproject/master/Get-Clean-Data.ipynb).
