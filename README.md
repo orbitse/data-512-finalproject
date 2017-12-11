@@ -78,4 +78,4 @@ contributor_employer_state    object
 url                           object  
 contributor_location          object  
   
-For information about how to get and clean the data, see the notebook file: [Data-Cleaning](https://raw.githubusercontent.com/orbitse/data-512-finalproject/master/Get-Clean-Data.ipynb).
+For information about how to get and clean the data, see the notebook file: [Get-Clean-Data](https://raw.githubusercontent.com/orbitse/data-512-finalproject/master/Get-Clean-Data.ipynb).
